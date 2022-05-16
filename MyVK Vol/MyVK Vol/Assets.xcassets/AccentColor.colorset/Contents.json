@@ -1,0 +1,18 @@
+{
+  "colors" : [
+    {
+      "filename" : "vk.png",
+      "idiom" : "universal"
+    },
+    {
+      "idiom" : "iphone"
+    },
+    {
+      "idiom" : "ipad"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
